@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<title>CBIU | Cox's Bazar International University</title>
+
+	<link rel="apple-touch-icon" sizes="180x180" href="<?php echo base_url();?>assets/images/favicon/cbiu.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="<?php echo base_url();?>assets/images/favicon/cbiu.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="<?php echo base_url();?>assets/images/favicon/cbiu.png">
+    <link rel="manifest" href="<?php echo base_url();?>assets/images/favicon/site.webmanifest">
+    <meta name="Author" content="Mizanur Rahman">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    <link href="https://fonts.googleapis.com/css?family=Exo+2&display=swap" rel="stylesheet">
+
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/dataTables.bootstrap4.min.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/jquery.simplyscroll.css">
+<!--	<link rel="stylesheet" type="text/css" href="--><?php //echo base_url();?><!--assets/css/flip-clock.css">-->
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/uikit.min.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/datatables.min.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets-admin/css/jquery-ui.min.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/flexslider.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/jquery.fancybox.min.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/swiper.min.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/owl.carousel.min.css">
+	<!-- <link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/bootstrap-datetimepicker.min.css"> -->
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/animate.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/fontawesome.min.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/style.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/responsive.css">
+
+    <script src="<?php echo base_url();?>assets/js/jquery-3.4.1.min.js"></script>
+	<script src="<?php echo base_url();?>assets/js/jquery.simplyscroll.min.js"></script>
+	<script src="<?php echo base_url();?>assets/js/bootstrap.min.js"></script>
+ 	<script src="<?php echo base_url();?>assets-admin/js/jquery-ui.min.js"></script>
+    <script src="<?php echo base_url();?>assets/js/jquery-ui.min.js"></script>
+	<script src="<?php echo base_url();?>assets/js/swiper.min.js"></script>
+<!--	<script src="--><?php //echo base_url();?><!--assets/js/flip-clock.js"></script>-->
+	<script src="<?php echo base_url();?>assets/js/uikit.min.js"></script>
+	<script src="<?php echo base_url();?>assets/js/jquery.fancybox.min.js"></script>
+	<script src="<?php echo base_url();?>assets/js/jquery.dataTables.min.js"></script>
+	<script src="<?php echo base_url();?>assets/js/dataTables.bootstrap4.min.js"></script>
+	<!--<script src="<?php echo base_url();?>assets/js/datatables.min.js"></script>-->
+	<script src="<?php echo base_url();?>assets/js/owl.carousel.min.js"></script>
+	<script src="<?php echo base_url();?>assets/js/jquery.flexslider-min.js"></script>
+    <script src="<?php echo base_url();?>assets/js/custom.js"></script>
+</head>
+<body>
+	<div class="loading">
+		<div class="loading-icon">
+			<i class="fas fa-cog fa-spin"></i>
+		</div>
+	</div>

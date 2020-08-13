@@ -1,0 +1,19 @@
+
+{margin: 0;padding:0;}
+.heade
+{
+height:500px;
+overflow: auto;
+}
+.foote
+{
+
+}
+
+#ordar
+{
+	border-radius: 25px;
+color: black;
+font-family: Verdana;
+font-weight: bold;
+}

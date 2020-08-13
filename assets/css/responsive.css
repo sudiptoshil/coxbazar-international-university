@@ -1,0 +1,192 @@
+/*Extra large devices (large desktops)
+No media query since the extra-large breakpoint has no upper bound on its width*/
+@media (min-width: 1200px) {
+    .header-area-bottom .container {
+        padding: 0;
+    }
+}
+
+/*Large devices (desktops, less than 1200px)*/
+@media (max-width: 1199.98px) {
+    .header-area-bottom .container {
+        max-width: inherit;
+    }
+    .header-area-bottom li.nav-item a.nav-link {
+        font-size: 16px;
+        padding: 5px 6px;
+    }
+    .header-area-top h1 {
+        font-size: 32px;
+    }
+    .owl-nav {
+        text-align: center;
+    }
+}
+/*Medium devices (tablets, less than 992px)*/
+@media only screen and (max-width: 991.98px) {
+    .header-area-bottom .container {
+        max-width: inherit;
+    }
+	.mobile-menu-area {
+		display: block;
+	}
+	.header-logo-mobile {
+        width: 60px;
+        height: 60px;
+        background: #fff;
+        text-align: center;
+        margin-left: 10px;
+        border-radius: 100%;
+        box-shadow: 0 0 16px #fff;
+        -webkit-box-shadow: 0 0 16px #fff;
+        margin-top: 7px;
+    }
+    .header-logo-mobile a.navbar-brand {
+        margin: 0;
+        display: inline-block;
+    }
+    .header-logo-mobile img {
+        /* box-shadow: 0 0 16px #fff; */
+        /* -webkit-box-shadow: 0 0 16px #fff; */
+        border-radius: 50%;
+        background: #fff;
+        height: 52px;
+        width: initial;
+    }
+	div#navbarSupportedContent {
+        overflow-y: scroll;
+    }
+	.header-logo {
+		display: none;
+	}
+	.slider-area-notice {
+		display: none;
+	}
+	.header-area-top-left-s {
+        display: none;
+    }
+    .header-area-top-right-s {
+        display: none;
+    }
+	.header-area-top h1 {
+        font-size: 24px;
+    }
+	.head-text h2 {
+        font-size: 24px;
+    }
+    .slider-area .flexslider {
+        margin-bottom: 15px;
+    }
+    .mujib-borsho-area {
+        width: 48%;
+        float: left;
+        margin: 1%;
+    }
+    .countdown-area {
+        font-size: 28px;
+    }
+    .countdown-area-img {
+        width: 30%;
+    }
+}
+
+/*Small devices (landscape phones, less than 768px)*/
+@media (max-width: 767.98px) {
+    .header-area-top-up-s h4 {
+        font-size: 14px;
+    }
+    .footer-bottom-left {
+        text-align: center;
+    }
+    .social_links {
+        background: transparent;
+        display: inline-block;
+        margin-bottom: -15px;
+    }
+    .visitors {
+        padding-bottom: 15px;
+    }
+    .footer-bottom-right.text-right {
+        text-align: center !important;
+        padding-top: 15px;
+    }
+    .notice-event-area {
+        padding: 0;
+    }
+    .section-top-banner {
+        max-height: 140px;
+    }
+    .section-top-banner-links {
+        min-height: 140px;
+    }
+    .countdown-area {
+        font-size: 30px;
+        width: 100%;
+    }
+    .countdown-area-img {
+        width: 100%;
+        text-align: center;
+        padding-bottom: 15px;
+    }
+    .mujib_borsho_in_single {
+        margin: 0 auto 15px;
+    }
+    .mujib_borsho_in {
+        padding: 0;
+    }
+    .notice-area-body {
+        padding: 0px 0 20px;
+    }
+}
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*=====alumni=====*/
+	/*----registration-----*/
+	.wrapper-form {
+	    padding: 0 30px;
+	}
+	/*----/registration-----*/
+
+	/*header*/
+
+	.header-area-top-left-s img{
+	    margin-right: 36%;
+	}
+
+	.header-area-top h1 {
+        font-size: 16px !important;
+    }
+
+	.header-area-top-right-s img{
+	    margin-left: 40%;
+	    margin-bottom: 10px;
+	}
+    .countdown-area {
+        font-size: 18px;
+    }
+
+
+
+
+	/*header*/
+
+	.imp-box-left-single-img {
+        max-height: inherit;
+        min-height: inherit;
+    }
+	/*----footer-----*/
+	.alumni-footer-area > .footer-area-top h1 {
+	    padding: 10px 20px;
+	    font-size: 20px;
+	}
+	.alumni-footer-area .footer-area-top img {
+	    width: 125px;
+	}
+	.alumni-footer-area > .footer-area-bottom .footer-bottom-left ul li {
+	    float: none;
+	    text-align: center;
+	}
+	/*----/footer-----*/
+	/*=====/alumni=====*/
+}
+

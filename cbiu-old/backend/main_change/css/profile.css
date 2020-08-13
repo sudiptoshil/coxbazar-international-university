@@ -1,0 +1,26 @@
+.pro_header
+{
+
+background: black none repeat scroll 0 0;
+margin-bottom: 10px;
+padding: 10px;
+
+}
+.up_pro{
+
+border-top: 2px solid;
+padding: 5px;
+}
+
+.btn_update{
+
+			margin-top:10px;
+
+}
+
+.payment{
+
+border: 1px solid;
+text-align: center;
+
+}

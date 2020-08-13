@@ -1,0 +1,9 @@
+product
+---------
+id
+name
+category
+sub category
+price
+details
+image
